@@ -6,5 +6,5 @@ Used behavior tree to design the patrol route of enemies. They will chase after 
 However, when the player gets away, enemies will stop chasing after the player and return to their patrol route.
 
 Flowers in the mpa work as health pack. Whenever the player hits flowers, flowers will be destroyed and the health value of the player will increase.
-
+![image](Overview.PNG)
 
